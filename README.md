@@ -14,3 +14,10 @@ A report is safe if:
 3. Check if all differences are between +1 and +3 (increasing) OR all between -1 and -3 (decreasing)
 4. If either condition is fully true, the report is safe
 5. Count up all the safe reports
+## How to Run
+ 
+1. Save your puzzle input as `input.txt` in the same folder as the script
+2. Run with Python: `python solution.py`
+## My Answer
+ 
+**326 safe reports**
