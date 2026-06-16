@@ -25,4 +25,5 @@ A new rule is added: if a report is unsafe, we can try removing **one number** f
 3. If any single removal makes it safe, count it as safe
 ## My Answer
  
-**326 safe reports**
+1. **Part 1** - 326 safe reports
+2. **Part 2** - 381 safe reports
